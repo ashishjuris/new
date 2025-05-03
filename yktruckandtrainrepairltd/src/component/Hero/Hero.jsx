@@ -20,7 +20,7 @@ const Hero = () => {
               Our Services <ChevronRight size={20} className="ml-1" />
             </a>
             <a href="#contact" className="bg-transparent border-2 border-white hover:bg-white hover:text-gray-900 text-white px-6 py-3 rounded-lg font-medium transition duration-300">
-              Get a Quote
+              Get a Quote!
             </a>
           </div>
         </div>
